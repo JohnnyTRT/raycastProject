@@ -11,11 +11,9 @@ Also make sure you have a c++ compiler installed on your device. It does not rea
 
 If you are serious about getting into c++, would highly reccomend getting familiar with CMake (Conan is not as mainstream, but in my opinion it is very helpful). Here is a brief description of what they do if you are curious:
 
-CMake
-CMake is a build system for c++. This means it is capable of detecting your compiler, enforcing c++ version control, and managing external libraries. It is used to build your projects from c++ code into an executable using a compiler. You can learn more about CMake at [Clickable Text](https://cmake.org/)
+CMake is a build system for c++. This means it is capable of detecting your compiler, enforcing c++ version control, and managing external libraries. It is used to build your projects from c++ code into an executable using a compiler. You can learn more about CMake at [Cmake Webpage](https://cmake.org/)
 
-Conan
-Conan is a package manager for c++. This is useful if your project has 3rd party libraries (like sdl3 or imgui). Conan allows you to define what libraries you want to use and it uses an open-source server to locate and install precompiled binaries of those libraries for your project based on your compiler, system architecture, and operating system. If a precompiled binary for your machine is not available, Conan will compile the library itself. You can learn more about Conan at [Clickable Text](https://conan.io/)
+Conan is a package manager for c++. This is useful if your project has 3rd party libraries (like sdl3 or imgui). Conan allows you to define what libraries you want to use and it uses an open-source server to locate and install precompiled binaries of those libraries for your project based on your compiler, system architecture, and operating system. If a precompiled binary for your machine is not available, Conan will compile the library itself. You can learn more about Conan at [Conan Webpage](https://conan.io/)
 
 
 ### Installing CMake & Conan on MacOS:
@@ -126,7 +124,7 @@ If you have already imported the project, but wanted to import it again because 
 git pull origin main 
 ```
 
-You can also just download the project directly from the github page of the project: [Clickable Text](https://github.com/JohnnyTRT/raycastProject#)
+You can also just download the project directly from the github page of the project: [You are already here](https://github.com/JohnnyTRT/raycastProject#)
 
 ### Getting your changes into the project repository
 
