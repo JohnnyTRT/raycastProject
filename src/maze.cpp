@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "maze.hpp"
 #include <iostream>
 #include <vector>
@@ -168,3 +169,7 @@ bool Maze::hasWon(int playerRow, int playerCol) const
 {
     return playerRow == exitRow && playerCol == exitCol;
 }
+=======
+//this is the maze code for defining the maze object and maze generation
+
+>>>>>>> e518e76f13a7b5b1f8fa965a02c2e4d527f72bff

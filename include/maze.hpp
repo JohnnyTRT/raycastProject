@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef MAZE_H
 #define MAZE_H
 
@@ -37,3 +38,10 @@ private:
 };
 
 #endif
+=======
+//header file for maze
+
+class maze{
+
+};
+>>>>>>> e518e76f13a7b5b1f8fa965a02c2e4d527f72bff
